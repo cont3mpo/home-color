@@ -29,7 +29,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #515151;
+  color: #4F4F4F;
   text-decoration: none;
   font-size: 38px;
 }
@@ -75,14 +75,14 @@ footer .nombre {
 }
 
 footer .nombre h1 {
-  color: #515151;
+  color: #4F4F4F;
   font-size: 45px;
   margin: 0;
   flex: 100%;
 }
 
 footer .nombre h2 {
-  color: #515151;
+  color: #4F4F4F;
   font-size: 24px;
   margin: 0;
   margin-bottom: 5px;
