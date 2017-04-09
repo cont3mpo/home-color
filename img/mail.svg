@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2997 7298 41 41">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #515151;
-      }
-    </style>
-  </defs>
-  <path id="social-media" class="cls-1" d="M20.5,0A20.5,20.5,0,1,0,41,20.5,20.5,20.5,0,0,0,20.5,0Zm9.236,11.389L20.492,18.7l-9.544-7.307Zm.951,18.222H10V14.475l9.537,7.234a1.64,1.64,0,0,0,.939.293,1.312,1.312,0,0,0,.842-.307l9.372-7.455Z" transform="translate(-2997 7298)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 41 41" style="enable-background:new 0 0 41 41;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F4F4F;}
+</style>
+<path id="social-media" class="st0" d="M20.5,0C9.2,0,0,9.2,0,20.5S9.2,41,20.5,41S41,31.8,41,20.5S31.8,0,20.5,0z M29.7,11.4
+	l-9.2,7.3l-9.5-7.3L29.7,11.4z M30.7,29.6H10V14.5l9.5,7.2c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.8-0.3l9.4-7.5L30.7,29.6z"/>
 </svg>

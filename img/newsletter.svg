@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3549 8166 150 151.428">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #515151;
-      }
-    </style>
-  </defs>
-  <path id="newsletter" class="cls-1" d="M75,0C33.589,0,0,33.892,0,75.7s33.567,75.725,75,75.725,75-33.892,75-75.725S116.411,0,75,0ZM44,131.86,62.138,83.4h-23.6l63.615-63.857L85.537,68h23.6Z" transform="translate(-3549 8166)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 151.4" style="enable-background:new 0 0 150 151.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F4F4F;}
+</style>
+<path id="newsletter" class="st0" d="M75,0C33.6,0,0,33.9,0,75.7s33.6,75.7,75,75.7s75-33.9,75-75.7S116.4,0,75,0z M44,131.9
+	l18.1-48.5H38.5l63.6-63.9L85.5,68h23.6L44,131.9z"/>
 </svg>
